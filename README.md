@@ -2,8 +2,13 @@
 
 This is a simple task management server built with Express.j (using for running React Query Task Manager - React Fundamental Project 15) . It provides a RESTful API to manage tasks, including creating, updating, and deleting tasks.
 
-**Online Live:**
+**Backend Online Live:** https://task-management-server-nyfr.onrender.com
 
+<<<<<<< HEAD
+=======
+**Frontend Online Live:**
+
+>>>>>>> refs/remotes/origin/main
 **Front-End Source Code:** https://github.com/arnobt78/React-Query-Task-Manager--React-Fundamental-Project-15
 
 ## Project Structure
