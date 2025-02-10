@@ -4,11 +4,8 @@ This is a simple task management server built with Express.j (using for running 
 
 **Backend Online Live:** https://task-management-server-nyfr.onrender.com
 
-<<<<<<< HEAD
-=======
-**Frontend Online Live:**
+**Frontend Online Live:** https://react-query-task-manager-arnob.netlify.app/
 
->>>>>>> refs/remotes/origin/main
 **Front-End Source Code:** https://github.com/arnobt78/React-Query-Task-Manager--React-Fundamental-Project-15
 
 ## Project Structure
